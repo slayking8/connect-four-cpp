@@ -1,3 +1,2 @@
-# connect-four-cpp
-# connect-four-cpp
-# connect-four-cpp
+# CONNECT FOUR ON C++
+A simple c++ solution of the connec four game.
